@@ -1,6 +1,6 @@
 // src/api/pokemon.type.ts
 
-import type { NamedAPIResource } from './common.type';
+import type { NamedAPIResource } from './common.type.ts';
 
 // ポケモンの画像データ
 export interface PokemonSprites {
